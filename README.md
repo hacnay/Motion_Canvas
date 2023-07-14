@@ -70,6 +70,7 @@ python main.py
 
 
 ## Screenshots
+![alt text](Screenshots/img1.jpeg "Description goes here")
 
 
 
