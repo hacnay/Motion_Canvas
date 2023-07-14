@@ -71,9 +71,5 @@ python main.py
 
 ## Screenshots
 
-[url=https://postimg.cc/dkf0SC75][img]https://i.postimg.cc/dkf0SC75/Whats-App-Image-2023-07-14-at-21-46-41.jpg[/img][/url]
 
-[url=https://postimg.cc/mzkDwjrc][img]https://i.postimg.cc/mzkDwjrc/Whats-App-Image-2023-07-14-at-21-46-42.jpg[/img][/url]
-
-[url=https://postimg.cc/DW2mWnkP][img]https://i.postimg.cc/DW2mWnkP/Whats-App-Image-2023-07-14-at-21-46-42-1.jpg[/img][/url]
 
